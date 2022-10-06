@@ -1,1 +1,7 @@
 # TreendBee
+ TrendBee is a website which is developed using HTML, CSS bootstrap, MySQL , Javascript(JS) and PHP where the frontend of the website was made using HTML ,CSS and Bootstrap while JS, PHP and MySQL were used for the backend.
+
+TrendBee is an e-commerce website which focuses mainly on women's clothing and accessories. This website aims at providing it’s users a very simple and user-friendly experience while browsing through it. It is a user-friendly, simple, fast and cost-effective way of buying clothing items.
+
+### OBJECTIVE
+The main objective of the project ‘TrendBee’ is providing users with the unique and friendly experience of shopping virtually from the comfort of their homes or work place. The basic concept of the website is to allow users to shop virtually using the internet. Users can shop for the clothing items that they desire at a reasonable price and won’t have to empty their pockets in trying to stay trendy.Users will be able to ask their queries directly through the online chat option available on the website. Users have to create an account in order to add items to the cart and later purchase them all together. Keeping the comfort of users in mind, we have designed the website such that they can shop by category or they can shop by brand.While browsing through the website for their desired item, users can also sort the products either by relevance or by price.
